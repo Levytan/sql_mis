@@ -1,1 +1,1 @@
-# sql_mis
+Lý thuyết và bài tập môn Cơ sở dữ liệu ứng dụng
